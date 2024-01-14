@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\bin\Debug\net8.0\04. Vegetable Market.exe
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\bin\Debug\net8.0\04. Vegetable Market.deps.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\bin\Debug\net8.0\04. Vegetable Market.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\bin\Debug\net8.0\04. Vegetable Market.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\bin\Debug\net8.0\04. Vegetable Market.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\refint\04. Vegetable Market.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\04. Vegetable Market.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\04. Vegetable Market\obj\Debug\net8.0\ref\04. Vegetable Market.dll
