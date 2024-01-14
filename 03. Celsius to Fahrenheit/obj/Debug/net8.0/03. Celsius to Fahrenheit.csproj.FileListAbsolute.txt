@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\bin\Debug\net8.0\03. Celsius to Fahrenheit.exe
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\bin\Debug\net8.0\03. Celsius to Fahrenheit.deps.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\bin\Debug\net8.0\03. Celsius to Fahrenheit.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\bin\Debug\net8.0\03. Celsius to Fahrenheit.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\bin\Debug\net8.0\03. Celsius to Fahrenheit.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\refint\03. Celsius to Fahrenheit.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\03. Celsius to Fahrenheit.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\03. Celsius to Fahrenheit\obj\Debug\net8.0\ref\03. Celsius to Fahrenheit.dll
