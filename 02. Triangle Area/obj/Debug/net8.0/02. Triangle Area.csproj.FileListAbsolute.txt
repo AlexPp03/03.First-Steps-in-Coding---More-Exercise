@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\bin\Debug\net8.0\02. Triangle Area.exe
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\bin\Debug\net8.0\02. Triangle Area.deps.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\bin\Debug\net8.0\02. Triangle Area.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\bin\Debug\net8.0\02. Triangle Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\bin\Debug\net8.0\02. Triangle Area.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\refint\02. Triangle Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\02. Triangle Area.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\02. Triangle Area\obj\Debug\net8.0\ref\02. Triangle Area.dll
