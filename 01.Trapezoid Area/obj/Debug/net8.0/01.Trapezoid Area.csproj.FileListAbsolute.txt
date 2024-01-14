@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\bin\Debug\net8.0\01.Trapezoid Area.exe
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\bin\Debug\net8.0\01.Trapezoid Area.deps.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\bin\Debug\net8.0\01.Trapezoid Area.runtimeconfig.json
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\bin\Debug\net8.0\01.Trapezoid Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\bin\Debug\net8.0\01.Trapezoid Area.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\refint\01.Trapezoid Area.dll
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.pdb
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\01.Trapezoid Area.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\First Steps in Coding - More Exercise\Trapezoid Area\obj\Debug\net8.0\ref\01.Trapezoid Area.dll
